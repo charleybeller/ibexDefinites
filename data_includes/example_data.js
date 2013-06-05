@@ -104,8 +104,9 @@ items = [
     [["EG3", "AE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>His</span> father told <span class=dp>the bastard</span> the news."}}],
     [["EG4", "AE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> told <span class=dp>the bastard's</span> father the news."}}],
     [["EG5", "AE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The bastard's</span> father told <span class=dp>the bastard</span> the news."}}],
-    [["EG6", "AE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The bastard</span> told <span class=dp>the bastard's</span> father the news."}}],
-
+    [["EG6", "AE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The bastard</span> told <span class=dp>the bastard's</span> father the news."}}]
+];
+/*
     [["EG6", "BE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The idiot</span> ignored <span class=dp>the idiot's</span> co-workers."}}],
     [["EG5", "BE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The idiot's</span> co-workers ignored <span class=dp>the idiot</span>."}}],
     [["EG4", "BE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>She</span> ignored <span class=dp>the idiot's</span> co-workers."}}],
@@ -268,4 +269,4 @@ items = [
     [["ER6", "ZE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The asshole</span> shouted at the person that <span class=dp>the asshole</span> ran into."}}]
 
 ];
-
+*/
