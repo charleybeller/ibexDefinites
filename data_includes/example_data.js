@@ -146,8 +146,9 @@ items = [
     [["EG3", "GE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>Her</span> cousin called <span class=dp>the moron</span> after dinner."}}],
     [["EG4", "GE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>She</span> called <span class=dp>the moron's</span> cousin after dinner."}}],
     [["EG5", "GE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The moron's</span> cousin called <span class=dp>the moron</span> after dinner."}}],
-    [["EG6", "GE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The moron</span> called <span class=dp>the moron's</span> cousin after dinner."}}],
+    [["EG6", "GE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The moron</span> called <span class=dp>the moron's</span> cousin after dinner."}}]
 
+/*
     [["EG1", "HE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The asshole's</span> partner reported <span class=dp>him</span> to the authorities."}}],
     [["EG2", "HE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The asshole</span> reported <span class=dp>his</span> partner to the authorities."}}],
     [["EG3", "HE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>His</span> partner reported <span class=dp>the asshole</span> to the authorities."}}],
@@ -174,9 +175,8 @@ items = [
     [["EG3", "KE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>Her</span> sister lost track of <span class=dp>the idiot</span> in the parking lot."}}],
     [["EG4", "KE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>She</span> lost track of <span class=dp>the idiot's</span> sister in the parking lot."}}],
     [["EG5", "KE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The idiot's</span> sister lost track of <span class=dp>the idiot</span> in the parking lot."}}],
-    [["EG6", "KE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The idiot</span> lost track of <span class=dp>the idiot's</span> sister in the parking lot."}}]
+    [["EG6", "KE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The idiot</span> lost track of <span class=dp>the idiot's</span> sister in the parking lot."}}],
 
-/*
     [["EG1", "LE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The brat's</span> brother visited <span class=dp>her</span> at college."}}],
     [["EG2", "LE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The brat</span> visited <span class=dp>her</span> brother at college."}}],
     [["EG3", "LE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>Her</span> brother visited <span class=dp>the brat</span> at college."}}],
