@@ -125,8 +125,8 @@ items = [
     [["EG3", "DE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>His</span> boss confronted <span class=dp>the jerk</span> at lunch."}}],
     [["EG4", "DE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> confronted <span class=dp>the jerk's</span> boss at lunch."}}],
     [["EG5", "DE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The jerk's</span> boss confronted <span class=dp>the jerk</span> at lunch."}}],
-    [["EG6", "DE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The jerk</span> confronted <span class=dp>the jerk's</span> boss at lunch."}}],
-   
+    [["EG6", "DE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The jerk</span> confronted <span class=dp>the jerk's</span> boss at lunch."}}]
+  /* 
     [["EG1", "EE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The punk's</span> neighbor yelled at <span class=dp>him</span> over the fence."}}],
     [["EG2", "EE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The punk</span> yelled at <span class=dp>his</span> neighbor over the fence."}}],
     [["EG3", "EE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>His</span> neighbor yelled at <span class=dp>the punk</span> over the fence."}}],
@@ -266,6 +266,6 @@ items = [
     [["ER4", "ZE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> shouted at the person that <span class=dp>the asshole</span> ran into."}}],
     [["ER5", "ZE"], "AcceptabilityJudgment", {s: {html: "The person that <span class=dp>the asshole</span> ran into shouted at <span class=dp>the asshole</span>."}}],
     [["ER6", "ZE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The asshole</span> shouted at the person that <span class=dp>the asshole</span> ran into."}}]
-
+*/
 ];
 
