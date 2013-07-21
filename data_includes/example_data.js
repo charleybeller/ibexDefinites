@@ -145,16 +145,16 @@ items = [
     [["EG3", "GE"], "AcceptabilityJudgment", {s: {html: "Her cousin called the moron after dinner."}}],
     [["EG4", "GE"], "AcceptabilityJudgment", {s: {html: "She called the moron's cousin after dinner."}}],
     [["EG5", "GE"], "AcceptabilityJudgment", {s: {html: "The moron's cousin called the moron after dinner."}}],
-    [["EG6", "GE"], "AcceptabilityJudgment", {s: {html: "The moron called the moron's cousin after dinner."}}]
+    [["EG6", "GE"], "AcceptabilityJudgment", {s: {html: "The moron called the moron's cousin after dinner."}}],
 
-/*
     [["EG1", "HE"], "AcceptabilityJudgment", {s: {html: "The asshole's partner reported him to the authorities."}}],
     [["EG2", "HE"], "AcceptabilityJudgment", {s: {html: "The asshole reported his partner to the authorities."}}],
     [["EG3", "HE"], "AcceptabilityJudgment", {s: {html: "His partner reported the asshole to the authorities."}}],
     [["EG4", "HE"], "AcceptabilityJudgment", {s: {html: "He reported the asshole's partner to the authorities."}}],
     [["EG5", "HE"], "AcceptabilityJudgment", {s: {html: "The asshole's partner reported the asshole to the authorities."}}],
-    [["EG6", "HE"], "AcceptabilityJudgment", {s: {html: "The asshole reported the asshole's partner to the authorities."}}],
+    [["EG6", "HE"], "AcceptabilityJudgment", {s: {html: "The asshole reported the asshole's partner to the authorities."}}]
 
+/*
     [["ER1", "IE"], "AcceptabilityJudgment", {s: {html: "The waiter that the bastard reprimanded avoided him."}}],
     [["ER2", "IE"], "AcceptabilityJudgment", {s: {html: "The bastard avoided the waiter that he reprimanded."}}],
     [["ER3", "IE"], "AcceptabilityJudgment", {s: {html: "The waiter that he reprimanded avoided the bastard."}}],
