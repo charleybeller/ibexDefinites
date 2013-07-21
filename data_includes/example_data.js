@@ -237,4 +237,18 @@ items = [
     [["EG3", "TE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>His</span> son left <span class=dp>the schmuck</span> in the rain."}}],
     [["EG4", "TE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> left <span class=dp>the schmuck's</span> son in the rain."}}],
     [["EG5", "TE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The schmuck's</span> son left <span class=dp>the schmuck</span> in the rain."}}],
-    [["EG6", "TE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The schmuck</span> left <span class=dp>the schmuck's</span> son in the rain."}}]];
+    [["EG6", "TE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The schmuck</span> left <span class=dp>the schmuck's</span> son in the rain."}}],
+
+    [["ER1", "VE"], "AcceptabilityJudgment", {s: {html: "The cousin that <span class=dp>the brat</span> wrote about talked with <span class=dp>him</span> at the picnic."}}],
+    [["ER2", "VE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The brat</span> talked with the cousin that <span class=dp>he</span> wrote about at the picnic."}}],
+    [["ER3", "VE"], "AcceptabilityJudgment", {s: {html: "The cousin that <span class=dp>he</span> wrote about talked with <span class=dp>the brat</span> at the picnic."}}],
+    [["ER4", "VE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> talked with the cousin that <span class=dp>the brat</span> wrote about at the picnic."}}],
+    [["ER5", "VE"], "AcceptabilityJudgment", {s: {html: "The cousin that <span class=dp>the brat</span> wrote about talked with <span class=dp>the brat</span> at the picnic."}}],
+    [["ER6", "VE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The brat</span> talked with the cousin that <span class=dp>the brat</span> wrote about at the picnic."}}],
+
+    [["ER1", "WE"], "AcceptabilityJudgment", {s: {html: "The girl that <span class=dp>the creep</span> liked avoided <span class=dp>him</span> at the party."}}],
+    [["ER2", "WE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The creep</span> avoided the girl that <span class=dp>he</span> liked at the party."}}],
+    [["ER3", "WE"], "AcceptabilityJudgment", {s: {html: "The girl that <span class=dp>he</span> liked avoided <span class=dp>the creep</span> at the party."}}],
+    [["ER4", "WE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> avoided the girl that <span class=dp>the creep</span> liked at the party."}}],
+    [["ER5", "WE"], "AcceptabilityJudgment", {s: {html: "The girl that <span class=dp>the creep</span> liked avoided <span class=dp>the creep</span> at the party."}}],
+    [["ER6", "WE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The creep</span> avoided the girl that <span class=dp>the creep</span> liked at the party."}}]];
