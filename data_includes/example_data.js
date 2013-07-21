@@ -42,8 +42,7 @@ var items;
 items = [
     ["intro", "Form", {html: { include: "example_intro.html" }} ],
     ["intro", "Form", {html: { include: "native.html" }} ],
-    ["intro", "Form", {html: { include: "basic_info.html" }} ]
-    /*
+    ["intro", "Form", {html: { include: "basic_info.html" }} ],
     
     ["setcounter", "__SetCounter__", { }],
     
@@ -61,8 +60,9 @@ items = [
     
     ["comments", "Form", {html: {include: "comments.html"}} ],
     ["sr", "__SendResults__", { }],
-    ["done", "Exit", {html: {include: "done.html"}} ],
+    ["done", "Exit", {html: {include: "done.html"}} ]
     
+    /*
 
 //good fillers
     ["eFiller", "AcceptabilityJudgment", {s: {html: "I wanted him to help me, but the bastard wouldn't do it."}}],
