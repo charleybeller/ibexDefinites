@@ -174,7 +174,7 @@ items = [
     [["EG3", "KE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>Her</span> sister lost track of <span class=dp>the idiot</span> in the parking lot."}}],
     [["EG4", "KE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>She</span> lost track of <span class=dp>the idiot's</span> sister in the parking lot."}}],
     [["EG5", "KE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The idiot's</span> sister lost track of <span class=dp>the idiot</span> in the parking lot."}}],
-    [["EG6", "KE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The idiot</span> lost track of <span class=dp>the idiot's</span> sister in the parking lot."}}],
+    [["EG6", "KE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The idiot</span> lost track of <span class=dp>the idiot's</span> sister in the parking lot."}}]
 
 /*
     [["EG1", "LE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The brat's</span> brother visited <span class=dp>her</span> at college."}}],
