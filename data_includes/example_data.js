@@ -69,6 +69,7 @@ items = [
     ["eFiller", "AcceptabilityJudgment", {s: "It was said of <span class=dp>her</span> that <span class=dp>the idiot</span> lost a thousand dollars on the slots."}],
     ["eFiller", "AcceptabilityJudgment", {s: "Angela recognized <span class=dp>him</span> as soon as <span class=dp>the jerk</span> began to speak."}],
 
+/*
 //med fillers
     ["eFiller", "AcceptabilityJudgment", {s: "That <span class=dp>she</span> won the race really surprised <span class=dp>the brat</span>."}],
     ["eFiller", "AcceptabilityJudgment", {s: "<span class=dp>His</span> unpopularity was finally realized by <span class=dp>the creep</span>."}],
