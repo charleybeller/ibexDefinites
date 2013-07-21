@@ -157,7 +157,7 @@ items = [
     [["ER1", "IE"], "AcceptabilityJudgment", {s: {html: "The waiter that the bastard reprimanded avoided him."}}],
     [["ER2", "IE"], "AcceptabilityJudgment", {s: {html: "The bastard avoided the waiter that he reprimanded."}}],
     [["ER3", "IE"], "AcceptabilityJudgment", {s: {html: "The waiter that he reprimanded avoided the bastard."}}],
-    [["ER4", "IE"], "AcceptabilityJudgment", {s: {html: "He avoided the waiter that the bastard reprimanded."}],  }  
+    [["ER4", "IE"], "AcceptabilityJudgment", {s: {html: "He avoided the waiter that the bastard reprimanded."}}],    
     [["ER5", "IE"], "AcceptabilityJudgment", {s: {html: "The waiter that the bastard reprimanded avoided the bastard."}}],
     [["ER6", "IE"], "AcceptabilityJudgment", {s: {html: "The bastard avoided the waiter that the bastard reprimanded."}}]
 
