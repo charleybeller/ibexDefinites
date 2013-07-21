@@ -67,8 +67,9 @@ items = [
     ["eFiller", "AcceptabilityJudgment", {s: {html: {include: "I wanted <span class=dp>him</span> to help me, but <span class=dp>the bastard</span> wouldn't do it."}}}],
     ["eFiller", "AcceptabilityJudgment", {s: {html: {include: "Although <span class=dp>the bum</span> tried to hit me, I can't really get too mad at <span class=dp>him</span>."}}}],
     ["eFiller", "AcceptabilityJudgment", {s: {html: {include: "It was said of <span class=dp>her</span> that <span class=dp>the idiot</span> lost a thousand dollars on the slots."}}}],
-    ["eFiller", "AcceptabilityJudgment", {s: {html: {include: "Angela recognized <span class=dp>him</span> as soon as <span class=dp>the jerk</span> began to speak."}}}],
+    ["eFiller", "AcceptabilityJudgment", {s: {html: {include: "Angela recognized <span class=dp>him</span> as soon as <span class=dp>the jerk</span> began to speak."}}}]
 
+/*
 //med fillers
     ["eFiller", "AcceptabilityJudgment", {s: {html: {include: "That <span class=dp>she</span> won the race really surprised <span class=dp>the brat</span>."}}}],
     ["eFiller", "AcceptabilityJudgment", {s: {html: {include: "<span class=dp>His</span> unpopularity was finally realized by <span class=dp>the creep</span>."}}}],
@@ -266,7 +267,6 @@ items = [
     [["ER4", "ZE"], "AcceptabilityJudgment", {s: {html: {include: "<span class=dp>He</span> shouted at the person that <span class=dp>the asshole</span> ran into."}}}],
     [["ER5", "ZE"], "AcceptabilityJudgment", {s: {html: {include: "The person that <span class=dp>the asshole</span> ran into shouted at <span class=dp>the asshole</span>."}}}],
     [["ER6", "ZE"], "AcceptabilityJudgment", {s: {html: {include: "<span class=dp>The asshole</span> shouted at the person that <span class=dp>the asshole</span> ran into."}}}]
-/*
 */
 ];
 
