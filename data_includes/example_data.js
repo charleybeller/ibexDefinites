@@ -60,9 +60,8 @@ items = [
     
     ["comments", "Form", {html: {include: "comments.html"}} ],
     ["sr", "__SendResults__", { }],
-    ["done", "Exit", {html: {include: "done.html"}} ]
+    ["done", "Exit", {html: {include: "done.html"}} ],
     
-    /*
 
 //good fillers
     ["eFiller", "AcceptabilityJudgment", {s: {html: "I wanted him to help me, but the bastard wouldn't do it."}}],
@@ -80,10 +79,9 @@ items = [
     ["eFiller", "AcceptabilityJudgment", {s: {html: "He claims that the bastard was honest."}}],
     ["eFiller", "AcceptabilityJudgment", {s: {html: "He was afraid that the sissy wouldn't get picked for a team."}}],
     ["eFiller", "AcceptabilityJudgment", {s: {html: "He said that the fool didn't know when to come in out of the rain."}}],
-    ["eFiller", "AcceptabilityJudgment", {s: {html: "Donna hopes he won't embarrass the poor guy."}}],
+    ["eFiller", "AcceptabilityJudgment", {s: {html: "Donna hopes he won't embarrass the poor guy."}}]
 
 
-    */
 
 /*
 
