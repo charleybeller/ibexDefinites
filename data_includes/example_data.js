@@ -101,12 +101,12 @@ items = [
     [["NG5", "AN"], "AcceptabilityJudgment", {s: "<span class=dp>Andrew's</span> father told <span class=dp>Andrew</span> the news."}],
     [["NG6", "AN"], "AcceptabilityJudgment", {s: "<span class=dp>Andrew</span> told <span class=dp>Andrew's</span> father the news."}],
 
-    [["NG1", "BN"], "AcceptabilityJudgment", {s: "Beth's".bold()+" co-workers ignored "+"her".bold()+"."}],
-    [["NG2", "BN"], "AcceptabilityJudgment", {s: "Beth".bold()+" ignored "+"her".bold()+" co-workers."}],
-    [["NG3", "BN"], "AcceptabilityJudgment", {s: "Her".bold()+" co-workers ignored "+"Beth".bold()+"."}],
-    [["NG4", "BN"], "AcceptabilityJudgment", {s: "She".bold()+" ignored "+"Beth's".bold()+" co-workers."}],
-    [["NG5", "BN"], "AcceptabilityJudgment", {s: "Beth's".bold()+" co-workers ignored "+"Beth".bold()+"."}],
-    [["NG6", "BN"], "AcceptabilityJudgment", {s: "Beth".bold()+" ignored "+"Beth's".bold()+" co-workers."}],
+    [["NG1", "BN"], "AcceptabilityJudgment", {s: "<span class=dp>Beth's</span> co-workers ignored <span class=dp>her</span>."}],
+    [["NG2", "BN"], "AcceptabilityJudgment", {s: "<span class=dp>Beth</span> ignored <span class=dp>her</span> co-workers."}],
+    [["NG3", "BN"], "AcceptabilityJudgment", {s: "<span class=dp>Her</span> co-workers ignored <span class=dp>Beth</span>."}],
+    [["NG4", "BN"], "AcceptabilityJudgment", {s: "<span class=dp>She</span> ignored <span class=dp>Beth's</span> co-workers."}],
+    [["NG5", "BN"], "AcceptabilityJudgment", {s: "<span class=dp>Beth's</span> co-workers ignored <span class=dp>Beth</span>."}],
+    [["NG6", "BN"], "AcceptabilityJudgment", {s: "<span class=dp>Beth</span> ignored <span class=dp>Beth's</span> co-workers."}],
 
     [["NR1", "CN"], "AcceptabilityJudgment", {s: "The actor that "+"Colin".bold()+" interviewed argued with "+"him".bold()+"."}],
     [["NR2", "CN"], "AcceptabilityJudgment", {s: "Colin".bold()+" argued with the actor that "+"he".bold()+" interviewed."}],
