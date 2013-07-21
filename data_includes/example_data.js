@@ -251,4 +251,20 @@ items = [
     [["ER3", "WE"], "AcceptabilityJudgment", {s: {html: "The girl that <span class=dp>he</span> liked avoided <span class=dp>the creep</span> at the party."}}],
     [["ER4", "WE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> avoided the girl that <span class=dp>the creep</span> liked at the party."}}],
     [["ER5", "WE"], "AcceptabilityJudgment", {s: {html: "The girl that <span class=dp>the creep</span> liked avoided <span class=dp>the creep</span> at the party."}}],
-    [["ER6", "WE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The creep</span> avoided the girl that <span class=dp>the creep</span> liked at the party."}}]];
+    [["ER6", "WE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The creep</span> avoided the girl that <span class=dp>the creep</span> liked at the party."}}],
+
+    [["ER1", "XE"], "AcceptabilityJudgment", {s: {html: "The driver that <span class=dp>the jackass</span> passed honked at <span class=dp>him</span> on the highway."}}],
+    [["ER2", "XE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The jackass</span> honked at the driver that <span class=dp>he</span> passed on the highway."}}],
+    [["ER3", "XE"], "AcceptabilityJudgment", {s: {html: "The driver that <span class=dp>he</span> passed honked at <span class=dp>the jackass</span> on the highway."}}],
+    [["ER4", "XE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> honked at the driver that <span class=dp>the jackass</span> passed on the highway."}}],
+    [["ER5", "XE"], "AcceptabilityJudgment", {s: {html: "The driver that <span class=dp>the jackass</span> passed honked at <span class=dp>the jackass</span> on the highway."}}],
+    [["ER6", "XE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The jackass</span> honked at the driver that <span class=dp>the jackass</span> passed on the highway."}}],
+
+    [["ER1", "ZE"], "AcceptabilityJudgment", {s: {html: "The person that <span class=dp>the asshole</span> ran into shouted at <span class=dp>him</span>."}}],
+    [["ER2", "ZE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The asshole</span> shouted at the person that <span class=dp>he</span> ran into."}}],
+    [["ER3", "ZE"], "AcceptabilityJudgment", {s: {html: "The person that <span class=dp>he</span> ran into shouted at <span class=dp>the asshole</span>."}}],
+    [["ER4", "ZE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> shouted at the person that <span class=dp>the asshole</span> ran into."}}],
+    [["ER5", "ZE"], "AcceptabilityJudgment", {s: {html: "The person that <span class=dp>the asshole</span> ran into shouted at <span class=dp>the asshole</span>."}}],
+    [["ER6", "ZE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The asshole</span> shouted at the person that <span class=dp>the asshole</span> ran into."}}]
+];
+
