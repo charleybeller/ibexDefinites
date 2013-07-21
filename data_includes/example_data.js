@@ -111,4 +111,25 @@ items = [
     [["EG4", "BE"], "AcceptabilityJudgment", {s: "<span class=dp>She</span> ignored <span class=dp>the idiot's</span> co-workers."}],
     [["EG3", "BE"], "AcceptabilityJudgment", {s: "<span class=dp>Her</span> co-workers ignored <span class=dp>the idiot</span>."}],
     [["EG2", "BE"], "AcceptabilityJudgment", {s: "<span class=dp>The idiot</span> ignored <span class=dp>her</span> co-workers."}],
-    [["EG1", "BE"], "AcceptabilityJudgment", {s: "<span class=dp>The idiot's</span> co-workers ignored <span class=dp>her</span>."}]];
+    [["EG1", "BE"], "AcceptabilityJudgment", {s: "<span class=dp>The idiot's</span> co-workers ignored <span class=dp>her</span>."}],
+
+    [["ER1", "CE"], "AcceptabilityJudgment", {s: "The actor that <span class=dp>the jackass</span> interviewed argued with <span class=dp>him</span>."}],
+    [["ER2", "CE"], "AcceptabilityJudgment", {s: "<span class=dp>The jackass</span> argued with the actor that <span class=dp>he</span> interviewed."}],
+    [["ER3", "CE"], "AcceptabilityJudgment", {s: "The actor that <span class=dp>he</span> interviewed argued with <span class=dp>the jackass</span>."}],
+    [["ER4", "CE"], "AcceptabilityJudgment", {s: "<span class=dp>He</span> argued with the actor that <span class=dp>the jackass</span> interviewed."}],
+    [["ER5", "CE"], "AcceptabilityJudgment", {s: "The actor that <span class=dp>the jackass</span> interviewed argued with <span class=dp>the jackass</span>."}],
+    [["ER6", "CE"], "AcceptabilityJudgment", {s: "<span class=dp>The jackass</span> argued with the actor that <span class=dp>the jackass</span> interviewed."}],
+
+    [["EG1", "DE"], "AcceptabilityJudgment", {s: "<span class=dp>The jerk's</span> boss confronted <span class=dp>him</span> at lunch."}],
+    [["EG2", "DE"], "AcceptabilityJudgment", {s: "<span class=dp>The jerk</span> confronted <span class=dp>his</span> boss at lunch."}],
+    [["EG3", "DE"], "AcceptabilityJudgment", {s: "<span class=dp>His</span> boss confronted <span class=dp>the jerk</span> at lunch."}],
+    [["EG4", "DE"], "AcceptabilityJudgment", {s: "<span class=dp>He</span> confronted <span class=dp>the jerk's</span> boss at lunch."}],
+    [["EG5", "DE"], "AcceptabilityJudgment", {s: "<span class=dp>The jerk's</span> boss confronted <span class=dp>the jerk</span> at lunch."}],
+    [["EG6", "DE"], "AcceptabilityJudgment", {s: "<span class=dp>The jerk</span> confronted <span class=dp>the jerk's</span> boss at lunch."}],
+   
+    [["EG1", "EE"], "AcceptabilityJudgment", {s: "<span class=dp>The punk's</span> neighbor yelled at <span class=dp>him</span> over the fence."}],
+    [["EG2", "EE"], "AcceptabilityJudgment", {s: "<span class=dp>The punk</span> yelled at <span class=dp>his</span> neighbor over the fence."}],
+    [["EG3", "EE"], "AcceptabilityJudgment", {s: "<span class=dp>His</span> neighbor yelled at <span class=dp>the punk</span> over the fence."}],
+    [["EG4", "EE"], "AcceptabilityJudgment", {s: "<span class=dp>He</span> yelled at <span class=dp>the punk's</span> neighbor over the fence."}],
+    [["EG5", "EE"], "AcceptabilityJudgment", {s: "<span class=dp>The punk's</span> neighbor yelled at <span class=dp>the punk</span> over the fence."}],
+    [["EG6", "EE"], "AcceptabilityJudgment", {s: "<span class=dp>The punk</span> yelled at <span class=dp>the punk's</span> neighbor over the fence."}]];
