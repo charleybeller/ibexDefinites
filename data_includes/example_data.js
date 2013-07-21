@@ -46,7 +46,7 @@ items = [
     
     ["setcounter", "__SetCounter__", { }],
     
-    ["nameInst", "Form", {html: {include: "name_instructions.html"}} ],
+    ["nameInst", "Form", {html: {include: "gen_instructions.html"}} ],
     ["nameInst", "Practice", {html: {include: "name_ex1.html"},
                               s: "<span class=dp>Mary</span> saw <span class=dp>herself</span> in the mirror.",
                               hideProgressBar: true,
