@@ -42,7 +42,8 @@ var items;
 items = [
     ["intro", "Form", {html: { include: "example_intro.html" }} ],
     ["intro", "Form", {html: { include: "native.html" }} ],
-    ["intro", "Form", {html: { include: "basic_info.html" }} ],
+    ["intro", "Form", {html: { include: "basic_info.html" }} ]
+    /*
     
     ["setcounter", "__SetCounter__", { }],
     
@@ -82,6 +83,7 @@ items = [
     ["eFiller", "AcceptabilityJudgment", {s: {html: "Donna hopes he won't embarrass the poor guy."}}],
 
 
+    */
 
 /*
 
@@ -97,7 +99,7 @@ items = [
     
 */
 
-    
+   /* 
 
     [["EG1", "AE"], "AcceptabilityJudgment", {s: {html: "The bastard's father told him the news."}}],
     [["EG2", "AE"], "AcceptabilityJudgment", {s: {html: "The bastard told his father the news."}}],
@@ -266,6 +268,7 @@ items = [
     [["ER4", "ZE"], "AcceptabilityJudgment", {s: {html: "He shouted at the person that the asshole ran into."}}],
     [["ER5", "ZE"], "AcceptabilityJudgment", {s: {html: "The person that the asshole ran into shouted at the asshole."}}],
     [["ER6", "ZE"], "AcceptabilityJudgment", {s: {html: "The asshole shouted at the person that the asshole ran into."}}]
+    */
 
 ];
 
