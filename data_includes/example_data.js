@@ -153,18 +153,4 @@ items = [
     [["EG3", "HE"], "AcceptabilityJudgment", {s: "<span class=dp>His</span> partner reported <span class=dp>the asshole</span> to the authorities."}],
     [["EG4", "HE"], "AcceptabilityJudgment", {s: "<span class=dp>He</span> reported <span class=dp>the asshole's</span> partner to the authorities."}],
     [["EG5", "HE"], "AcceptabilityJudgment", {s: "<span class=dp>The asshole's</span> partner reported <span class=dp>the asshole</span> to the authorities."}],
-    [["EG6", "HE"], "AcceptabilityJudgment", {s: "<span class=dp>The asshole</span> reported <span class=dp>the asshole's</span> partner to the authorities."}],
-
-    [["ER1", "IE"], "AcceptabilityJudgment", {s: "The waiter that <span class=dp>the bastard</span> reprimanded avoided <span class=dp>him</span>."}],
-    [["ER2", "IE"], "AcceptabilityJudgment", {s: "<span class=dp>The bastard</span> avoided the waiter that <span class=dp>he</span> reprimanded."}],
-    [["ER3", "IE"], "AcceptabilityJudgment", {s: "The waiter that <span class=dp>he</span> reprimanded avoided <span class=dp>the bastard</span>."}],
-    [["ER4", "IE"], "AcceptabilityJudgment", {s: "<span class=dp>He</span> avoided the waiter that <span class=dp>the bastard</span> reprimanded."}}]  
-    [["ER5", "IE"], "AcceptabilityJudgment", {s: "The waiter that <span class=dp>the bastard</span> reprimanded avoided <span class=dp>the bastard</span>."}],
-    [["ER6", "IE"], "AcceptabilityJudgment", {s: "<span class=dp>The bastard</span> avoided the waiter that <span class=dp>the bastard</span> reprimanded."}],
-
-    [["EG1", "JE"], "AcceptabilityJudgment", {s: "<span class=dp>The jerk's</span> roommates met <span class=dp>him</span> at the restaurant."}],
-    [["EG2", "JE"], "AcceptabilityJudgment", {s: "<span class=dp>The jerk</span> met <span class=dp>his</span> roomates at the restaurant."}],
-    [["EG3", "JE"], "AcceptabilityJudgment", {s: "<span class=dp>His</span> roommates met <span class=dp>the jerk</span> at the restaurant."}],
-    [["EG4", "JE"], "AcceptabilityJudgment", {s: "<span class=dp>He</span> met <span class=dp>the jerk's</span> roomates at the restaurant."}],
-    [["EG5", "JE"], "AcceptabilityJudgment", {s: "<span class=dp>The jerk's</span> roommates met <span class=dp>the jerk</span> at the restaurant."}],
-    [["EG6", "JE"], "AcceptabilityJudgment", {s: "<span class=dp>The jerk</span> met <span class=dp>the jerk's</span> roomates at the restaurant."}]];
+    [["EG6", "HE"], "AcceptabilityJudgment", {s: "<span class=dp>The asshole</span> reported <span class=dp>the asshole's</span> partner to the authorities."}]];
