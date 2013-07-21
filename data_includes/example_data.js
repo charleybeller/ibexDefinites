@@ -67,4 +67,16 @@ items = [
     ["eFiller", "AcceptabilityJudgment", {s: "I wanted <span class=dp>him</span> to help me, but <span class=dp>the bastard</span> wouldn't do it."}],
     ["eFiller", "AcceptabilityJudgment", {s: "Although <span class=dp>the bum</span> tried to hit me, I can't really get too mad at <span class=dp>him</span>."}],
     ["eFiller", "AcceptabilityJudgment", {s: "It was said of <span class=dp>her</span> that <span class=dp>the idiot</span> lost a thousand dollars on the slots."}],
-    ["eFiller", "AcceptabilityJudgment", {s: "Angela recognized <span class=dp>him</span> as soon as <span class=dp>the jerk</span> began to speak."}]];
+    ["eFiller", "AcceptabilityJudgment", {s: "Angela recognized <span class=dp>him</span> as soon as <span class=dp>the jerk</span> began to speak."}],
+
+//med fillers
+    ["eFiller", "AcceptabilityJudgment", {s: "That <span class=dp>she</span> won the race really surprised <span class=dp>the brat</span>."}],
+    ["eFiller", "AcceptabilityJudgment", {s: "<span class=dp>His</span> unpopularity was finally realized by <span class=dp>the creep</span>."}],
+    ["eFiller", "AcceptabilityJudgment", {s: "<span class=dp>He</span> was besieged by a hord of bills and <span class=dp>the poor guy</span> couldn't pay them."}],
+    ["eFiller", "AcceptabilityJudgment", {s: "Speaking of <span class=dp>him</span>, <span class=dp>the moron</span> is married to a genius"}],
+
+    //bad fillers
+    ["eFiller", "AcceptabilityJudgment", {s: "<span class=dp>He</span> claims that <span class=dp>the bastard</span> was honest."}],
+    ["eFiller", "AcceptabilityJudgment", {s: "<span class=dp>He</span> was afraid that <span class=dp>the sissy</span> wouldn't get picked for a team."}],
+    ["eFiller", "AcceptabilityJudgment", {s: "<span class=dp>He</span> said that <span class=dp>the fool</span> didn't know when to come in out of the rain."}],
+    ["eFiller", "AcceptabilityJudgment", {s: "Donna hopes <span class=dp>he</span> won't embarrass <span class=dp>the poor guy</span>."}]];
