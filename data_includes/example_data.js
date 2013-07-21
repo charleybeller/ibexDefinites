@@ -40,4 +40,103 @@ var defaults = [
 var items;
 
 items = [
-    ["intro", "Form", {html: { include: "example_intro.html" }} ]];
+    ["intro", "Form", {html: { include: "example_intro.html" }} ],
+    ["intro", "Form", {html: { include: "native.html" }} ],
+    ["intro", "Form", {html: { include: "basic_info.html" }} ],
+    
+    ["setcounter", "__SetCounter__", { }],
+    
+    
+    ["epInst", "Form", {html: {include: "gen_instructions.html"}} ],
+    ["epInst", "Practice", {html: {include: "epithet_ex1.html"},
+                              s: "After I talked to <span class=dp>Sam</span>, <span class=dp>the bastard</span> went and told the whole neighborhood.",
+                              hideProgressBar: true,
+                              transfer: null}],
+    ["epInst", "Practice", {html: {include: "epithet_ex2.html"},
+                              s: "<span class=dp>Bill</span> realizes that <span class=dp>the sissy</span> is going to lose.",
+                              hideProgressBar: true,
+                              transfer: null}],
+    ["epInst", "Form", {html: {include: "epithet_instructions_cont.html"}} ],
+    
+    ["comments", "Form", {html: {include: "comments.html"}} ],
+    ["sr", "__SendResults__", { }],
+    ["done", "Exit", {html: {include: "done.html"}} ],
+    
+
+//good fillers
+    ["eFiller", "AcceptabilityJudgment", {s: {html: "I wanted <span class=dp>him</span> to help me, but <span class=dp>the bastard</span> wouldn't do it."}}],
+    ["eFiller", "AcceptabilityJudgment", {s: {html: "Although <span class=dp>the bum</span> tried to hit me, I can't really get too mad at <span class=dp>him</span>."}}],
+    ["eFiller", "AcceptabilityJudgment", {s: {html: "It was said of <span class=dp>her</span> that <span class=dp>the idiot</span> lost a thousand dollars on the slots."}}],
+    ["eFiller", "AcceptabilityJudgment", {s: {html: "Angela recognized <span class=dp>him</span> as soon as <span class=dp>the jerk</span> began to speak."}}],
+
+//med fillers
+    ["eFiller", "AcceptabilityJudgment", {s: {html: "That <span class=dp>she</span> won the race really surprised <span class=dp>the brat</span>."}}],
+    ["eFiller", "AcceptabilityJudgment", {s: {html: "<span class=dp>His</span> unpopularity was finally realized by <span class=dp>the creep</span>."}}],
+    ["eFiller", "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> was besieged by a hord of bills and <span class=dp>the poor guy</span> couldn't pay them."}}],
+    ["eFiller", "AcceptabilityJudgment", {s: {html: "Speaking of <span class=dp>him</span>, <span class=dp>the moron</span> is married to a genius"}}],
+
+    //bad fillers
+    ["eFiller", "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> claims that <span class=dp>the bastard</span> was honest."}}],
+    ["eFiller", "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> was afraid that <span class=dp>the sissy</span> wouldn't get picked for a team."}}],
+    ["eFiller", "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> said that <span class=dp>the fool</span> didn't know when to come in out of the rain."}}],
+    ["eFiller", "AcceptabilityJudgment", {s: {html: "Donna hopes <span class=dp>he</span> won't embarrass <span class=dp>the poor guy</span>."}}],
+
+
+
+/*
+
+    codes: {N/E G/R  1/2/3/4/5/6}
+    N/E: N-name E-epithet
+    G/R: G-genitive R-relative clause
+    1: N/E-pronoun no c-command
+    2: N/E-pronoun with c-command
+    3: pronoun-N/E no c-command
+    4: pronoun-N/E with c-command
+    5: N/E-N/E no c-command
+    6: N/E-N/E with c-command
+    
+*/
+
+    
+
+    [["EG1", "AE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The bastard's</span> father told <span class=dp>him</span> the news."}}],
+    [["EG2", "AE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The bastard</span> told <span class=dp>his</span> father the news."}}],
+    [["EG3", "AE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>His</span> father told <span class=dp>the bastard</span> the news."}}],
+    [["EG4", "AE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> told <span class=dp>the bastard's</span> father the news."}}],
+    [["EG5", "AE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The bastard's</span> father told <span class=dp>the bastard</span> the news."}}],
+    [["EG6", "AE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The bastard</span> told <span class=dp>the bastard's</span> father the news."}}],
+
+    [["EG6", "BE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The idiot</span> ignored <span class=dp>the idiot's</span> co-workers."}}],
+    [["EG5", "BE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The idiot's</span> co-workers ignored <span class=dp>the idiot</span>."}}],
+    [["EG4", "BE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>She</span> ignored <span class=dp>the idiot's</span> co-workers."}}],
+    [["EG3", "BE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>Her</span> co-workers ignored <span class=dp>the idiot</span>."}}],
+    [["EG2", "BE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The idiot</span> ignored <span class=dp>her</span> co-workers."}}],
+    [["EG1", "BE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The idiot's</span> co-workers ignored <span class=dp>her</span>."}}],
+
+    [["ER1", "CE"], "AcceptabilityJudgment", {s: {html: "The actor that <span class=dp>the jackass</span> interviewed argued with <span class=dp>him</span>."}}],
+    [["ER2", "CE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The jackass</span> argued with the actor that <span class=dp>he</span> interviewed."}}],
+    [["ER3", "CE"], "AcceptabilityJudgment", {s: {html: "The actor that <span class=dp>he</span> interviewed argued with <span class=dp>the jackass</span>."}}],
+    [["ER4", "CE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> argued with the actor that <span class=dp>the jackass</span> interviewed."}}],
+    [["ER5", "CE"], "AcceptabilityJudgment", {s: {html: "The actor that <span class=dp>the jackass</span> interviewed argued with <span class=dp>the jackass</span>."}}],
+    [["ER6", "CE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The jackass</span> argued with the actor that <span class=dp>the jackass</span> interviewed."}}],
+
+    [["EG1", "DE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The jerk's</span> boss confronted <span class=dp>him</span> at lunch."}}],
+    [["EG2", "DE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The jerk</span> confronted <span class=dp>his</span> boss at lunch."}}],
+    [["EG3", "DE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>His</span> boss confronted <span class=dp>the jerk</span> at lunch."}}],
+    [["EG4", "DE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> confronted <span class=dp>the jerk's</span> boss at lunch."}}],
+    [["EG5", "DE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The jerk's</span> boss confronted <span class=dp>the jerk</span> at lunch."}}],
+    [["EG6", "DE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The jerk</span> confronted <span class=dp>the jerk's</span> boss at lunch."}}],
+   
+    [["EG1", "EE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The punk's</span> neighbor yelled at <span class=dp>him</span> over the fence."}}],
+    [["EG2", "EE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The punk</span> yelled at <span class=dp>his</span> neighbor over the fence."}}],
+    [["EG3", "EE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>His</span> neighbor yelled at <span class=dp>the punk</span> over the fence."}}],
+    [["EG4", "EE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> yelled at <span class=dp>the punk's</span> neighbor over the fence."}}],
+    [["EG5", "EE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The punk's</span> neighbor yelled at <span class=dp>the punk</span> over the fence."}}],
+    [["EG6", "EE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The punk</span> yelled at <span class=dp>the punk's</span> neighbor over the fence."}}],
+
+    [["ER1", "FE"], "AcceptabilityJudgment", {s: {html: "The visitor that <span class=dp>the S.O.B.</span> insulted stared at <span class=dp>him</span>."}}],
+    [["ER2", "FE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The S.O.B.</span> stared at the visitor that <span class=dp>he</span> insulted."}}],
+    [["ER3", "FE"], "AcceptabilityJudgment", {s: {html: "The visitor that <span class=dp>he</span> insulted stared at <span class=dp>the S.O.B.</span>."}}],
+    [["ER4", "FE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> stared at the visitor that <span class=dp>the S.O.B.</span> insulted."}}],
+    [["ER5", "FE"], "AcceptabilityJudgment", {s: {html: "The visitor that <span class=dp>the SOB</span> insulted stared at <span class=dp>the S.O.B.</span>."}}],
+    [["ER6", "FE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The S.O.B.</span> stared at the visitor that <span class=dp>the S.O.B.</span> insulted."}}]];
