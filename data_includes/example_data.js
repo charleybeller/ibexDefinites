@@ -19,7 +19,7 @@ define_ibex_controller({
                     
 
 //var shuffleSequence = seq("intro", "nameInst", "setcounter", rshuffle("nFiller", "NR1","NR2","NR3","NR4","NR5","NR6","NG1","NG2","NG3","NG4","NG5","NG6"), "comments", "sr", "done")
-var shuffleSequence = seq(rshuffle("nFiller", "NR1","NR2","NR3","NR4","NR5","NR6","NG1","NG2","NG3","NG4","NG5","NG6"), "comments", "sr", "done")
+var shuffleSequence = seq(rshuffle("nFillerGOOD", "nFillerMED", "nFillerBAD", "NR1","NR2","NR3","NR4","NR5","NR6","NG1","NG2","NG3","NG4","NG5","NG6"), "comments", "sr", "done")
          //,"epInst", rshuffle("eFiller", "ER1","ER2","ER3","ER4","ER5","ER6","EG1","EG2","EG3","EG4","EG5","EG6"), "sr", "done" )
     //seq("intro", "nameInst" rshuffle("nFiller", "NR1","NR2","NR3","NR4","NR5","NR6","NG1","NG2","NG3","NG4","NG5","NG6"), "epInst", rshuffle("eFiller", "ER1","ER2","ER3","ER4","ER5","ER6","EG1","EG2","EG3","EG4","EG5","EG6")) ;
 
@@ -62,22 +62,22 @@ items = [
     
 
 //good fillers
-    ["nFiller", "AcceptabilityJudgment", {s: "I wanted <span class=dp>him</span> to help me, but <span class=dp>Charlie</span> wouldn't do it."}],
-    ["nFiller", "AcceptabilityJudgment", {s: "Although <span class=dp>Harry</span> tried to hit me, I can't really get too mad at <span class=dp>him</span>."}],
-    ["nFiller", "AcceptabilityJudgment", {s: "It was said of <span class=dp>her</span> that <span class=dp>Laura</span> lost a thousand dollars on the slots."}],
-    ["nFiller", "AcceptabilityJudgment", {s: "Angela recognized <span class=dp>him</span> as soon as <span class=dp>Leo</span> began to speak."}],
+    ["nFillerGOOD", "AcceptabilityJudgment", {s: "I wanted <span class=dp>him</span> to help me, but <span class=dp>Charlie</span> wouldn't do it."}],
+    ["nFillerGOOD", "AcceptabilityJudgment", {s: "Although <span class=dp>Harry</span> tried to hit me, I can't really get too mad at <span class=dp>him</span>."}],
+    ["nFillerGOOD", "AcceptabilityJudgment", {s: "It was said of <span class=dp>her</span> that <span class=dp>Laura</span> lost a thousand dollars on the slots."}],
+    ["nFillerGOOD", "AcceptabilityJudgment", {s: "Angela recognized <span class=dp>him</span> as soon as <span class=dp>Leo</span> began to speak."}],
 
 //med fillers
-    ["nFiller", "AcceptabilityJudgment", {s: "That <span class=dp>she</span> won the race really surprised <span class=dp>Sandra</span>."}],
-    ["nFiller", "AcceptabilityJudgment", {s: "<span class=dp>His</span> unpopularity was finally realized by <span class=dp>Oscar</span>."}],
-    ["nFiller", "AcceptabilityJudgment", {s: "<span class=dp>He</span> was besieged by a hord of bills and <span class=dp>Irving</span> couldn't pay them."}],
-    ["nFiller", "AcceptabilityJudgment", {s: "Speaking of <span class=dp>him</span>, <span class=dp>Richard</span> is married to a genius"}],
+    ["nFillerMED", "AcceptabilityJudgment", {s: "That <span class=dp>she</span> won the race really surprised <span class=dp>Sandra</span>."}],
+    ["nFillerMED", "AcceptabilityJudgment", {s: "<span class=dp>His</span> unpopularity was finally realized by <span class=dp>Oscar</span>."}],
+    ["nFillerMED", "AcceptabilityJudgment", {s: "<span class=dp>He</span> was besieged by a hord of bills and <span class=dp>Irving</span> couldn't pay them."}],
+    ["nFillerMED", "AcceptabilityJudgment", {s: "Speaking of <span class=dp>him</span>, <span class=dp>Richard</span> is married to a genius"}],
 
     //bad fillers
-    ["nFiller", "AcceptabilityJudgment", {s: "<span class=dp>He</span> claims that <span class=dp>Melvin</span> was honest."}],
-    ["nFiller", "AcceptabilityJudgment", {s: "<span class=dp>He</span> was afraid that <span class=dp>Brad</span> wouldn't get picked for a team."}],
-    ["nFiller", "AcceptabilityJudgment", {s: "<span class=dp>He</span> said that <span class=dp>Jake</span> didn't know when to come in out of the rain."}],
-    ["nFiller", "AcceptabilityJudgment", {s: "Donna hopes <span class=dp>he</span> won't embarrass <span class=dp>Steve</span>."}],
+    ["nFillerBAD", "AcceptabilityJudgment", {s: "<span class=dp>He</span> claims that <span class=dp>Melvin</span> was honest."}],
+    ["nFillerBAD", "AcceptabilityJudgment", {s: "<span class=dp>He</span> was afraid that <span class=dp>Brad</span> wouldn't get picked for a team."}],
+    ["nFillerBAD", "AcceptabilityJudgment", {s: "<span class=dp>He</span> said that <span class=dp>Jake</span> didn't know when to come in out of the rain."}],
+    ["nFillerBAD", "AcceptabilityJudgment", {s: "Donna hopes <span class=dp>he</span> won't embarrass <span class=dp>Steve</span>."}],
 
 /*
 
