@@ -94,12 +94,12 @@ items = [
 */
 
     
-    [["NG1", "AN"], "AcceptabilityJudgment", {s: "Andrew's".bold()+" father told "+"him".bold()+" the news."}],
-    [["NG2", "AN"], "AcceptabilityJudgment", {s: "Andrew".bold()+" told "+"his".bold()+" father the news."}],
-    [["NG3", "AN"], "AcceptabilityJudgment", {s: "His".bold()+" father told "+"Andrew".bold()+" the news."}],
-    [["NG4", "AN"], "AcceptabilityJudgment", {s: "He".bold()+" told "+"Andrew's".bold()+" father the news."}],
-    [["NG5", "AN"], "AcceptabilityJudgment", {s: "Andrew's".bold()+" father told "+"Andrew".bold()+" the news."}],
-    [["NG6", "AN"], "AcceptabilityJudgment", {s: "Andrew".bold()+" told "+"Andrew's".bold()+" father the news."}],
+    [["NG1", "AN"], "AcceptabilityJudgment", {s: "<span class=dp>Andrew's</span> father told <span class=dp>him</span> the news."}],
+    [["NG2", "AN"], "AcceptabilityJudgment", {s: "<span class=dp>Andrew</span> told <span class=dp>his</span> father the news."}],
+    [["NG3", "AN"], "AcceptabilityJudgment", {s: "<span class=dp>His</span> father told <span class=dp>Andrew</span> the news."}],
+    [["NG4", "AN"], "AcceptabilityJudgment", {s: "<span class=dp>He</span> told <span class=dp>Andrew's</span> father the news."}],
+    [["NG5", "AN"], "AcceptabilityJudgment", {s: "<span class=dp>Andrew's</span> father told <span class=dp>Andrew</span> the news."}],
+    [["NG6", "AN"], "AcceptabilityJudgment", {s: "<span class=dp>Andrew</span> told <span class=dp>Andrew's</span> father the news."}],
 
     [["NG1", "BN"], "AcceptabilityJudgment", {s: "Beth's".bold()+" co-workers ignored "+"her".bold()+"."}],
     [["NG2", "BN"], "AcceptabilityJudgment", {s: "Beth".bold()+" ignored "+"her".bold()+" co-workers."}],
