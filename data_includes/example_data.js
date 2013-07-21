@@ -115,12 +115,12 @@ items = [
     [["NR5", "CN"], "AcceptabilityJudgment", {s: "The actor that "+"Colin".bold()+" interviewed argued with "+"Colin".bold()+"."}],
     [["NR6", "CN"], "AcceptabilityJudgment", {s: "Colin".bold()+" argued with the actor that "+"Colin".bold()+" interviewed."}],
 
-    [["NG1", "DN"], "AcceptabilityJudgment", {s: "David's".bold()+" boss confronted "+"him".bold()+" at lunch."}],
-    [["NG2", "DN"], "AcceptabilityJudgment", {s: "David".bold()+" confronted "+"his".bold()+" boss at lunch."}],
-    [["NG3", "DN"], "AcceptabilityJudgment", {s: "His".bold()+" boss confronted "+"David".bold()+" at lunch."}],
-    [["NG4", "DN"], "AcceptabilityJudgment", {s: "He".bold()+" confronted "+"David's".bold()+" boss at lunch."}],
-    [["NG5", "DN"], "AcceptabilityJudgment", {s: "David's".bold()+" boss confronted "+"David".bold()+" at lunch."}],
-    [["NG6", "DN"], "AcceptabilityJudgment", {s: "David".bold()+" confronted "+"David's".bold()+" boss at lunch."}],
+    [["NG1", "DN"], "AcceptabilityJudgment", {s: "<span class=dp>David's</span> boss confronted <span class=dp>him</span> at lunch."}],
+    [["NG2", "DN"], "AcceptabilityJudgment", {s: "<span class=dp>David</span> confronted <span class=dp>his</span> boss at lunch."}],
+    [["NG3", "DN"], "AcceptabilityJudgment", {s: "<span class=dp>His</span> boss confronted <span class=dp>David</span> at lunch."}],
+    [["NG4", "DN"], "AcceptabilityJudgment", {s: "<span class=dp>He</span> confronted <span class=dp>David's</span> boss at lunch."}],
+    [["NG5", "DN"], "AcceptabilityJudgment", {s: "<span class=dp>David's</span> boss confronted <span class=dp>David</span> at lunch."}],
+    [["NG6", "DN"], "AcceptabilityJudgment", {s: "<span class=dp>David</span> confronted <span class=dp>David's</span> boss at lunch."}],
 
     [["NG1", "EN"], "AcceptabilityJudgment", {s: "Evan's".bold()+" neighbor yelled at "+"him".bold()+" over the fence."}],
     [["NG2", "EN"], "AcceptabilityJudgment", {s: "Evan".bold()+" yelled at "+"his".bold()+" neighbor over the fence."}],
