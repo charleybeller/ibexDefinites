@@ -108,12 +108,12 @@ items = [
     [["NG5", "BN"], "AcceptabilityJudgment", {s: "<span class=dp>Beth's</span> co-workers ignored <span class=dp>Beth</span>."}],
     [["NG6", "BN"], "AcceptabilityJudgment", {s: "<span class=dp>Beth</span> ignored <span class=dp>Beth's</span> co-workers."}],
 
-    [["NR1", "CN"], "AcceptabilityJudgment", {s: "The actor that "+"Colin".bold()+" interviewed argued with "+"him".bold()+"."}],
-    [["NR2", "CN"], "AcceptabilityJudgment", {s: "Colin".bold()+" argued with the actor that "+"he".bold()+" interviewed."}],
-    [["NR3", "CN"], "AcceptabilityJudgment", {s: "The actor that "+"he".bold()+" interviewed argued with "+"Colin".bold()+"."}],
-    [["NR4", "CN"], "AcceptabilityJudgment", {s: "He".bold()+" argued with the actor that "+"Colin".bold()+" interviewed."}],
-    [["NR5", "CN"], "AcceptabilityJudgment", {s: "The actor that "+"Colin".bold()+" interviewed argued with "+"Colin".bold()+"."}],
-    [["NR6", "CN"], "AcceptabilityJudgment", {s: "Colin".bold()+" argued with the actor that "+"Colin".bold()+" interviewed."}],
+    [["NR1", "CN"], "AcceptabilityJudgment", {s: "The actor that <span class=dp>Colin</span> interviewed argued with <span class=dp>him</span>."}],
+    [["NR2", "CN"], "AcceptabilityJudgment", {s: "<span class=dp>Colin</span> argued with the actor that <span class=dp>he</span> interviewed."}],
+    [["NR3", "CN"], "AcceptabilityJudgment", {s: "The actor that <span class=dp>he</span> interviewed argued with <span class=dp>Colin</span>."}],
+    [["NR4", "CN"], "AcceptabilityJudgment", {s: "<span class=dp>He</span> argued with the actor that <span class=dp>Colin</span> interviewed."}],
+    [["NR5", "CN"], "AcceptabilityJudgment", {s: "The actor that <span class=dp>Colin</span> interviewed argued with <span class=dp>Colin</span>."}],
+    [["NR6", "CN"], "AcceptabilityJudgment", {s: "<span class=dp>Colin</span> argued with the actor that <span class=dp>Colin</span> interviewed."}],
 
     [["NG1", "DN"], "AcceptabilityJudgment", {s: "<span class=dp>David's</span> boss confronted <span class=dp>him</span> at lunch."}],
     [["NG2", "DN"], "AcceptabilityJudgment", {s: "<span class=dp>David</span> confronted <span class=dp>his</span> boss at lunch."}],
