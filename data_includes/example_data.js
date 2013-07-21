@@ -158,8 +158,7 @@ items = [
     [["ER1", "IE"], "AcceptabilityJudgment", {s: {html: "The waiter that <span class=dp>the bastard</span> reprimanded avoided <span class=dp>him</span>."}}],
     [["ER2", "IE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The bastard</span> avoided the waiter that <span class=dp>he</span> reprimanded."}}],
     [["ER3", "IE"], "AcceptabilityJudgment", {s: {html: "The waiter that <span class=dp>he</span> reprimanded avoided <span class=dp>the bastard</span>."}}],
-    [["ER4", "IE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> avoided the waiter that <span class=dp>the bastard</span> reprimanded."}]  
-/*
+    [["ER4", "IE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> avoided the waiter that <span class=dp>the bastard</span> reprimanded."}}],  
     [["ER5", "IE"], "AcceptabilityJudgment", {s: {html: "The waiter that <span class=dp>the bastard</span> reprimanded avoided <span class=dp>the bastard</span>."}}],
     [["ER6", "IE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The bastard</span> avoided the waiter that <span class=dp>the bastard</span> reprimanded."}}],
 
@@ -201,7 +200,7 @@ items = [
     [["ER1", "OE"], "AcceptabilityJudgment", {s: {html: "The person that <span class=dp>the schmuck</span> bumped into scowled at <span class=dp>him</span>."}}],
     [["ER2", "OE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The schmuck</span> scowled at the person that <span class=dp>he</span> bumped into."}}],
     [["ER3", "OE"], "AcceptabilityJudgment", {s: {html: "The person that <span class=dp>he</span> bumped into scowled at <span class=dp>the schmuck</span>."}}],
-    [["ER4", "OE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> scowled at the person that <span class=dp>the schmuck</span> bumped into."}],   
+    [["ER4", "OE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> scowled at the person that <span class=dp>the schmuck</span> bumped into."}}],   
     [["ER5", "OE"], "AcceptabilityJudgment", {s: {html: "The person that <span class=dp>the schmuck</span> bumped into scowled at <span class=dp>the schmuck</span>."}}],
     [["ER6", "OE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The schmuck</span> scowled at the person that <span class=dp>the schmuck</span> bumped into."}}],
     
@@ -267,6 +266,7 @@ items = [
     [["ER4", "ZE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> shouted at the person that <span class=dp>the asshole</span> ran into."}}],
     [["ER5", "ZE"], "AcceptabilityJudgment", {s: {html: "The person that <span class=dp>the asshole</span> ran into shouted at <span class=dp>the asshole</span>."}}],
     [["ER6", "ZE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The asshole</span> shouted at the person that <span class=dp>the asshole</span> ran into."}}]
+/*
 */
 ];
 
