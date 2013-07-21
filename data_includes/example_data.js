@@ -48,11 +48,11 @@ items = [
     
     ["nameInst", "Form", {html: {include: "name_instructions.html"}} ],
     ["nameInst", "Practice", {html: {include: "name_ex1.html"},
-                              s: "Mary".bold()+" saw "+"herself".bold()+" in the mirror.",
+                              s: "<span class=dp>Mary</span> saw <span class=dp>herself</span> in the mirror.",
                               hideProgressBar: true,
                               transfer: null}],
     ["nameInst", "Practice", {html: {include: "name_ex2.html"},
-                              s: "Mary".bold()+" saw "+"her".bold()+" in the mirror.",
+                              s: "<span class=dp>Mary</span> saw <span class=dp>her</span> in the mirror.",
                               hideProgressBar: true}],
     ["nameInst", "Form", {html: {include: "name_instructions_cont.html"}} ],    
     ["comments", "Form", {html: {include: "comments.html"}} ],
