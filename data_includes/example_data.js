@@ -139,39 +139,4 @@ items = [
     [["ER3", "FE"], "AcceptabilityJudgment", {s: {html: "The visitor that <span class=dp>he</span> insulted stared at <span class=dp>the S.O.B.</span>."}}],
     [["ER4", "FE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> stared at the visitor that <span class=dp>the S.O.B.</span> insulted."}}],
     [["ER5", "FE"], "AcceptabilityJudgment", {s: {html: "The visitor that <span class=dp>the SOB</span> insulted stared at <span class=dp>the S.O.B.</span>."}}],
-    [["ER6", "FE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The S.O.B.</span> stared at the visitor that <span class=dp>the S.O.B.</span> insulted."}}],
-
-    [["EG1", "GE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The moron's</span> cousin called <span class=dp>her</span> after dinner."}}],
-    [["EG2", "GE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The moron</span> called <span class=dp>her</span> cousin after dinner."}}],
-    [["EG3", "GE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>Her</span> cousin called <span class=dp>the moron</span> after dinner."}}],
-    [["EG4", "GE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>She</span> called <span class=dp>the moron's</span> cousin after dinner."}}],
-    [["EG5", "GE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The moron's</span> cousin called <span class=dp>the moron</span> after dinner."}}],
-    [["EG6", "GE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The moron</span> called <span class=dp>the moron's</span> cousin after dinner."}}],
-
-    [["EG1", "HE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The asshole's</span> partner reported <span class=dp>him</span> to the authorities."}}],
-    [["EG2", "HE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The asshole</span> reported <span class=dp>his</span> partner to the authorities."}}],
-    [["EG3", "HE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>His</span> partner reported <span class=dp>the asshole</span> to the authorities."}}],
-    [["EG4", "HE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> reported <span class=dp>the asshole's</span> partner to the authorities."}}],
-    [["EG5", "HE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The asshole's</span> partner reported <span class=dp>the asshole</span> to the authorities."}}],
-    [["EG6", "HE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The asshole</span> reported <span class=dp>the asshole's</span> partner to the authorities."}}],
-
-    [["ER1", "IE"], "AcceptabilityJudgment", {s: {html: "The waiter that <span class=dp>the bastard</span> reprimanded avoided <span class=dp>him</span>."}}],
-    [["ER2", "IE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The bastard</span> avoided the waiter that <span class=dp>he</span> reprimanded."}}],
-    [["ER3", "IE"], "AcceptabilityJudgment", {s: {html: "The waiter that <span class=dp>he</span> reprimanded avoided <span class=dp>the bastard</span>."}}],
-    [["ER4", "IE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> avoided the waiter that <span class=dp>the bastard</span> reprimanded."}],  
-    [["ER5", "IE"], "AcceptabilityJudgment", {s: {html: "The waiter that <span class=dp>the bastard</span> reprimanded avoided <span class=dp>the bastard</span>."}}],
-    [["ER6", "IE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The bastard</span> avoided the waiter that <span class=dp>the bastard</span> reprimanded."}}],
-
-    [["EG1", "JE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The jerk's</span> roommates met <span class=dp>him</span> at the restaurant."}}],
-    [["EG2", "JE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The jerk</span> met <span class=dp>his</span> roomates at the restaurant."}}],
-    [["EG3", "JE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>His</span> roommates met <span class=dp>the jerk</span> at the restaurant."}}],
-    [["EG4", "JE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>He</span> met <span class=dp>the jerk's</span> roomates at the restaurant."}}],
-    [["EG5", "JE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The jerk's</span> roommates met <span class=dp>the jerk</span> at the restaurant."}}],
-    [["EG6", "JE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The jerk</span> met <span class=dp>the jerk's</span> roomates at the restaurant."}}],
-
-    [["EG1", "KE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The idiot's</span> sister lost track of <span class=dp>her</span> in the parking lot."}}],
-    [["EG2", "KE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The idiot</span> lost track of <span class=dp>her</span> sister in the parking lot."}}],
-    [["EG3", "KE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>Her</span> sister lost track of <span class=dp>the idiot</span> in the parking lot."}}],
-    [["EG4", "KE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>She</span> lost track of <span class=dp>the idiot's</span> sister in the parking lot."}}],
-    [["EG5", "KE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The idiot's</span> sister lost track of <span class=dp>the idiot</span> in the parking lot."}}],
-    [["EG6", "KE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The idiot</span> lost track of <span class=dp>the idiot's</span> sister in the parking lot."}}]];
+    [["ER6", "FE"], "AcceptabilityJudgment", {s: {html: "<span class=dp>The S.O.B.</span> stared at the visitor that <span class=dp>the S.O.B.</span> insulted."}}]];
