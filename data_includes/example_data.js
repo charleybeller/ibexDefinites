@@ -181,32 +181,4 @@ items = [
     [["EG3", "LE"], "AcceptabilityJudgment", {s: "<span class=dp>Her</span> brother visited <span class=dp>the brat</span> at college."}],
     [["EG4", "LE"], "AcceptabilityJudgment", {s: "<span class=dp>She</span> visited <span class=dp>the brat's</span> brother at college."}],
     [["EG5", "LE"], "AcceptabilityJudgment", {s: "<span class=dp>The brat's</span> brother visited <span class=dp>the brat</span> at college."}],
-    [["EG6", "LE"], "AcceptabilityJudgment", {s: "<span class=dp>The brat</span> visited <span class=dp>the brat's</span> brother at college."}],
-
-    [["EG1", "ME"], "AcceptabilityJudgment", {s: "<span class=dp>The moron's</span> husband spilled coffee on  <span class=dp>her</span>."}],
-    [["EG2", "ME"], "AcceptabilityJudgment", {s: "<span class=dp>The moron</span> spilled coffee on <span class=dp>her</span> husband."}],
-    [["EG3", "ME"], "AcceptabilityJudgment", {s: "<span class=dp>Her</span> husband spilled coffee on  <span class=dp>the moron</span>."}],
-    [["EG4", "ME"], "AcceptabilityJudgment", {s: "<span class=dp>She</span> spilled coffee on <span class=dp>the moron's</span> husband."}],
-    [["EG5", "ME"], "AcceptabilityJudgment", {s: "<span class=dp>The moron's</span> husband spilled coffee on  <span class=dp>the moron</span>."}],
-    [["EG6", "ME"], "AcceptabilityJudgment", {s: "<span class=dp>The moron</span> spilled coffee on <span class=dp>the moron's</span> husband."}],
-
-    [["ER1", "NE"], "AcceptabilityJudgment", {s: "The colleague that <span class=dp>the S.O.B.</span> rushed past glared at <span class=dp>him</span>."}],
-    [["ER2", "NE"], "AcceptabilityJudgment", {s: "<span class=dp>The S.O.B.</span> glared at the colleague that <span class=dp>he</span> rushed past."}],
-    [["ER3", "NE"], "AcceptabilityJudgment", {s: "The colleague that <span class=dp>he</span> rushed past glared at <span class=dp>the S.O.B.</span>."}],
-    [["ER4", "NE"], "AcceptabilityJudgment", {s: "<span class=dp>He</span> glared at the colleague that <span class=dp>the S.O.B.</span> rushed past."}],
-    [["ER5", "NE"], "AcceptabilityJudgment", {s: "The colleague that <span class=dp>the S.O.B.</span> rushed past glared at <span class=dp>the SOB</span>."}],
-    [["ER6", "NE"], "AcceptabilityJudgment", {s: "<span class=dp>The S.O.B.</span> glared at the colleague that <span class=dp>the S.O.B.</span> rushed past."}],
-
-    [["ER1", "OE"], "AcceptabilityJudgment", {s: "The person that <span class=dp>the schmuck</span> bumped into scowled at <span class=dp>him</span>."}],
-    [["ER2", "OE"], "AcceptabilityJudgment", {s: "<span class=dp>The schmuck</span> scowled at the person that <span class=dp>he</span> bumped into."}],
-    [["ER3", "OE"], "AcceptabilityJudgment", {s: "The person that <span class=dp>he</span> bumped into scowled at <span class=dp>the schmuck</span>."}],
-    [["ER4", "OE"], "AcceptabilityJudgment", {s: "<span class=dp>He</span> scowled at the person that <span class=dp>the schmuck</span> bumped into."}}],  
-    [["ER5", "OE"], "AcceptabilityJudgment", {s: "The person that <span class=dp>the schmuck</span> bumped into scowled at <span class=dp>the schmuck</span>."}],
-    [["ER6", "OE"], "AcceptabilityJudgment", {s: "<span class=dp>The schmuck</span> scowled at the person that <span class=dp>the schmuck</span> bumped into."}],
-    
-    [["EG1", "PE"], "AcceptabilityJudgment", {s: "<span class=dp>The creep's</span> daughter refused to see <span class=dp>him</span>."}],
-    [["EG2", "PE"], "AcceptabilityJudgment", {s: "<span class=dp>The creep</span> refused to see <span class=dp>his</span> daughter."}],
-    [["EG3", "PE"], "AcceptabilityJudgment", {s: "<span class=dp>His</span> daughter refused to see <span class=dp>the creep</span>."}],
-    [["EG4", "PE"], "AcceptabilityJudgment", {s: "<span class=dp>He</span> refused to see <span class=dp>the creep's</span> daughter."}],
-    [["EG5", "PE"], "AcceptabilityJudgment", {s: "<span class=dp>The creep's</span> daughter refused to see <span class=dp>the creep</span>."}],
-    [["EG6", "PE"], "AcceptabilityJudgment", {s: "<span class=dp>The creep</span> refused to see <span class=dp>the creep's</span> daughter."}]];
+    [["EG6", "LE"], "AcceptabilityJudgment", {s: "<span class=dp>The brat</span> visited <span class=dp>the brat's</span> brother at college."}]];
