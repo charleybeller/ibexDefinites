@@ -40,7 +40,8 @@ var defaults = [
 var items;
 
 items = [
-    ["intro", "Form", {html: { include: "example_intro.html" }} ],
+    ["intro", "Form", {html: { include: "example_intro.html" }} ]
+    /*
     ["intro", "Form", {html: { include: "native.html" }} ],
     ["intro", "Form", {html: { include: "basic_info.html" }} ],
     
