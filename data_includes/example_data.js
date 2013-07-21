@@ -60,12 +60,12 @@ items = [
     
     ["comments", "Form", {html: {include: "comments.html"}} ],
     ["sr", "__SendResults__", { }],
-    ["done", "Exit", {html: {include: "done.html"}} ],
+    ["done", "Exit", {html: {include: "done.html"}} ]
     
 
+/*
 //good fillers
     ["eFiller", "AcceptabilityJudgment", {s: "I wanted him to help me, but the bastard wouldn't do it."}]
-/*
     ["eFiller", "AcceptabilityJudgment", {s: "Although <span class=dp>the bum</span> tried to hit me, I can't really get too mad at <span class=dp>him</span>."}],
     ["eFiller", "AcceptabilityJudgment", {s: "It was said of <span class=dp>her</span> that <span class=dp>the idiot</span> lost a thousand dollars on the slots."}],
     ["eFiller", "AcceptabilityJudgment", {s: "Angela recognized <span class=dp>him</span> as soon as <span class=dp>the jerk</span> began to speak."}]
