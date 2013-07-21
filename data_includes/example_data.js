@@ -40,7 +40,9 @@ var defaults = [
 var items;
 
 items = [
-    ["intro", "Form", {html: { include: "example_intro.html" }} ],
+    ["intro", "Form", {html: { include: "example_intro.html" }} ]
+/*
+
     ["intro", "Form", {html: { include: "native.html" }} ],
     ["intro", "Form", {html: { include: "basic_info.html" }} ],
     
@@ -60,10 +62,9 @@ items = [
     
     ["comments", "Form", {html: {include: "comments.html"}} ],
     ["sr", "__SendResults__", { }],
-    ["done", "Exit", {html: {include: "done.html"}} ]
+    ["done", "Exit", {html: {include: "done.html"}} ],
     
 
-/*
 //good fillers
     ["eFiller", "AcceptabilityJudgment", {s: "I wanted him to help me, but the bastard wouldn't do it."}]
     ["eFiller", "AcceptabilityJudgment", {s: "Although <span class=dp>the bum</span> tried to hit me, I can't really get too mad at <span class=dp>him</span>."}],
