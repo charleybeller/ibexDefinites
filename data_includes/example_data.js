@@ -98,13 +98,13 @@ items = [
 */
 
 
-    [["EG1", "AE"], "AcceptabilityJudgment", {s: {html: "The bastard's father told him the news."}}],
-    [["EG2", "AE"], "AcceptabilityJudgment", {s: {html: "The bastard told his father the news."}}],
-    [["EG3", "AE"], "AcceptabilityJudgment", {s: {html: "His father told the bastard the news."}}],
-    [["EG4", "AE"], "AcceptabilityJudgment", {s: {html: "He told the bastard's father the news."}}],
-    [["EG5", "AE"], "AcceptabilityJudgment", {s: {html: "The bastard's father told the bastard the news."}}],
-    [["EG6", "AE"], "AcceptabilityJudgment", {s: {html: "The bastard told the bastard's father the news."}}],
-
+    [["EG1", "AE"], "AcceptabilityJudgment", {s: {html: "The bastard's father told him the news.<br><br>'The bastard' and 'him' are the same person."}}],
+    [["EG2", "AE"], "AcceptabilityJudgment", {s: {html: "The bastard told his father the news.<br><br>'The bastard' and 'he' are the same person."}}],
+    [["EG3", "AE"], "AcceptabilityJudgment", {s: {html: "His father told the bastard the news.<br><br>'The bastard' and 'he' are the same person."}}],
+    [["EG4", "AE"], "AcceptabilityJudgment", {s: {html: "He told the bastard's father the news.<br><br>'He' and 'the bastard' are the same person."}}],
+    [["EG5", "AE"], "AcceptabilityJudgment", {s: {html: "The bastard's father told the bastard the news.<br><br>Bastard 1 and bastard 2 are the same person."}}],
+    [["EG6", "AE"], "AcceptabilityJudgment", {s: {html: "The bastard told the bastard's father the news.<br><br>Bastard 1 and bastard 2 are the same person."}}]
+/*
     [["EG6", "BE"], "AcceptabilityJudgment", {s: {html: "The idiot ignored the idiot's co-workers."}}],
     [["EG5", "BE"], "AcceptabilityJudgment", {s: {html: "The idiot's co-workers ignored the idiot."}}],
     [["EG4", "BE"], "AcceptabilityJudgment", {s: {html: "She ignored the idiot's co-workers."}}],
@@ -265,7 +265,6 @@ items = [
     [["ER4", "ZE"], "AcceptabilityJudgment", {s: {html: "He shouted at the person that the asshole ran into."}}],
     [["ER5", "ZE"], "AcceptabilityJudgment", {s: {html: "The person that the asshole ran into shouted at the asshole."}}],
     [["ER6", "ZE"], "AcceptabilityJudgment", {s: {html: "The asshole shouted at the person that the asshole ran into."}}]
-/*
     */
 
 ];
