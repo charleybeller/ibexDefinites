@@ -79,7 +79,7 @@ items = [
     ["eFiller", "AcceptabilityJudgment", {s: {html: "He claims that the bastard was honest."}}],
     ["eFiller", "AcceptabilityJudgment", {s: {html: "He was afraid that the sissy wouldn't get picked for a team."}}],
     ["eFiller", "AcceptabilityJudgment", {s: {html: "He said that the fool didn't know when to come in out of the rain."}}],
-    ["eFiller", "AcceptabilityJudgment", {s: {html: "Donna hopes he won't embarrass the poor guy."}}]
+    ["eFiller", "AcceptabilityJudgment", {s: {html: "Donna hopes he won't embarrass the poor guy."}}],
 
 
 
@@ -97,7 +97,6 @@ items = [
     
 */
 
-   /* 
 
     [["EG1", "AE"], "AcceptabilityJudgment", {s: {html: "The bastard's father told him the news."}}],
     [["EG2", "AE"], "AcceptabilityJudgment", {s: {html: "The bastard told his father the news."}}],
@@ -132,8 +131,9 @@ items = [
     [["EG3", "EE"], "AcceptabilityJudgment", {s: {html: "His neighbor yelled at the punk over the fence."}}],
     [["EG4", "EE"], "AcceptabilityJudgment", {s: {html: "He yelled at the punk's neighbor over the fence."}}],
     [["EG5", "EE"], "AcceptabilityJudgment", {s: {html: "The punk's neighbor yelled at the punk over the fence."}}],
-    [["EG6", "EE"], "AcceptabilityJudgment", {s: {html: "The punk yelled at the punk's neighbor over the fence."}}],
+    [["EG6", "EE"], "AcceptabilityJudgment", {s: {html: "The punk yelled at the punk's neighbor over the fence."}}]
 
+   /* 
     [["ER1", "FE"], "AcceptabilityJudgment", {s: {html: "The visitor that the S.O.B. insulted stared at him."}}],
     [["ER2", "FE"], "AcceptabilityJudgment", {s: {html: "The S.O.B. stared at the visitor that he insulted."}}],
     [["ER3", "FE"], "AcceptabilityJudgment", {s: {html: "The visitor that he insulted stared at the S.O.B.."}}],
