@@ -159,8 +159,9 @@ items = [
     [["ER3", "IE"], "AcceptabilityJudgment", {s: {html: "The waiter that he reprimanded avoided the bastard."}}],
     [["ER4", "IE"], "AcceptabilityJudgment", {s: {html: "He avoided the waiter that the bastard reprimanded."}],  }  
     [["ER5", "IE"], "AcceptabilityJudgment", {s: {html: "The waiter that the bastard reprimanded avoided the bastard."}}],
-    [["ER6", "IE"], "AcceptabilityJudgment", {s: {html: "The bastard avoided the waiter that the bastard reprimanded."}}],
+    [["ER6", "IE"], "AcceptabilityJudgment", {s: {html: "The bastard avoided the waiter that the bastard reprimanded."}}]
 
+   /* 
     [["EG1", "JE"], "AcceptabilityJudgment", {s: {html: "The jerk's roommates met him at the restaurant."}}],
     [["EG2", "JE"], "AcceptabilityJudgment", {s: {html: "The jerk met his roomates at the restaurant."}}],
     [["EG3", "JE"], "AcceptabilityJudgment", {s: {html: "His roommates met the jerk at the restaurant."}}],
@@ -194,9 +195,8 @@ items = [
     [["ER3", "NE"], "AcceptabilityJudgment", {s: {html: "The colleague that he rushed past glared at the S.O.B.."}}],
     [["ER4", "NE"], "AcceptabilityJudgment", {s: {html: "He glared at the colleague that the S.O.B. rushed past."}}],
     [["ER5", "NE"], "AcceptabilityJudgment", {s: {html: "The colleague that the S.O.B. rushed past glared at the SOB."}}],
-    [["ER6", "NE"], "AcceptabilityJudgment", {s: {html: "The S.O.B. glared at the colleague that the S.O.B. rushed past."}}]
+    [["ER6", "NE"], "AcceptabilityJudgment", {s: {html: "The S.O.B. glared at the colleague that the S.O.B. rushed past."}}],
 
-   /* 
     [["ER1", "OE"], "AcceptabilityJudgment", {s: {html: "The person that the schmuck bumped into scowled at him."}}],
     [["ER2", "OE"], "AcceptabilityJudgment", {s: {html: "The schmuck scowled at the person that he bumped into."}}],
     [["ER3", "OE"], "AcceptabilityJudgment", {s: {html: "The person that he bumped into scowled at the schmuck."}}],
