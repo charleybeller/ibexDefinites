@@ -64,10 +64,10 @@ items = [
     
 
 //good fillers
-    ["eFiller", "AcceptabilityJudgment", {s: "I wanted <span class=dp>him</span> to help me, but <span class=dp>the bastard</span> wouldn't do it."}],
-    ["eFiller", "AcceptabilityJudgment", {s: "Although <span class=dp>the bum</span> tried to hit me, I can't really get too mad at <span class=dp>him</span>."}],
-    ["eFiller", "AcceptabilityJudgment", {s: "It was said of <span class=dp>her</span> that <span class=dp>the idiot</span> lost a thousand dollars on the slots."}],
-    ["eFiller", "AcceptabilityJudgment", {s: "Angela recognized <span class=dp>him</span> as soon as <span class=dp>the jerk</span> began to speak."}],
+    ["eFiller", "AcceptabilityJudgment", s: "I wanted <span class=dp>him</span> to help me, but <span class=dp>the bastard</span> wouldn't do it."],
+    ["eFiller", "AcceptabilityJudgment", s: "Although <span class=dp>the bum</span> tried to hit me, I can't really get too mad at <span class=dp>him</span>."],
+    ["eFiller", "AcceptabilityJudgment", s: "It was said of <span class=dp>her</span> that <span class=dp>the idiot</span> lost a thousand dollars on the slots."],
+    ["eFiller", "AcceptabilityJudgment", s: "Angela recognized <span class=dp>him</span> as soon as <span class=dp>the jerk</span> began to speak."]
 
 /*
 //med fillers
