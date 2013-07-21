@@ -61,22 +61,22 @@ items = [
     
 
 //good fillers
-    ["nFiller", "AcceptabilityJudgment", {s: "I wanted "+"him".bold()+" to help me, but " + "Charlie".bold() +" wouldn't do it."}],
-    ["nFiller", "AcceptabilityJudgment", {s: "Although "+"Harry".bold()+" tried to hit me, I can't really get too mad at "+"him".bold()+"."}],
-    ["nFiller", "AcceptabilityJudgment", {s: "It was said of "+"her".bold()+" that "+"Laura".bold()+" lost a thousand dollars on the slots."}],
-    ["nFiller", "AcceptabilityJudgment", {s: "Angela recognized "+"him".bold()+" as soon as "+"Leo".bold()+" began to speak."}],
+    ["nFiller", "AcceptabilityJudgment", {s: "I wanted <span class=dp>him</span> to help me, but <span class=dp>Charlie</span> wouldn't do it."}],
+    ["nFiller", "AcceptabilityJudgment", {s: "Although <span class=dp>Harry</span> tried to hit me, I can't really get too mad at <span class=dp>him</span>."}],
+    ["nFiller", "AcceptabilityJudgment", {s: "It was said of <span class=dp>her</span> that <span class=dp>Laura</span> lost a thousand dollars on the slots."}],
+    ["nFiller", "AcceptabilityJudgment", {s: "Angela recognized <span class=dp>him</span> as soon as <span class=dp>Leo</span> began to speak."}],
 
 //med fillers
-    ["nFiller", "AcceptabilityJudgment", {s: "That "+"she".bold()+" won the race really surprised "+"Sandra".bold()+"."}],
-    ["nFiller", "AcceptabilityJudgment", {s: "His".bold()+" unpopularity was finally realized by "+"Oscar".bold()+"."}],
-    ["nFiller", "AcceptabilityJudgment", {s: "He".bold()+" was besieged by a hord of bills and "+"Irving".bold()+" couldn't pay them."}],
-    ["nFiller", "AcceptabilityJudgment", {s: "Speaking of "+"him".bold()+", "+"Richard".bold()+" is married to a genius"}],
+    ["nFiller", "AcceptabilityJudgment", {s: "That <span class=dp>she</span> won the race really surprised <span class=dp>Sandra</span>."}],
+    ["nFiller", "AcceptabilityJudgment", {s: "<span class=dp>His</span> unpopularity was finally realized by <span class=dp>Oscar</span>."}],
+    ["nFiller", "AcceptabilityJudgment", {s: "<span class=dp>He</span> was besieged by a hord of bills and <span class=dp>Irving</span> couldn't pay them."}],
+    ["nFiller", "AcceptabilityJudgment", {s: "Speaking of <span class=dp>him</span>, <span class=dp>Richard</span> is married to a genius"}],
 
     //bad fillers
-    ["nFiller", "AcceptabilityJudgment", {s: "He".bold()+" claims that " + "Melvin".bold() +" was honest."}],
-    ["nFiller", "AcceptabilityJudgment", {s: "He".bold()+" was afraid that " + "Brad".bold() +" wouldn't get picked for a team."}],
-    ["nFiller", "AcceptabilityJudgment", {s: "He".bold()+" said that "+"Jake".bold()+" didn't know when to come in out of the rain."}],
-    ["nFiller", "AcceptabilityJudgment", {s: "Donna hopes "+"he".bold()+" won't embarrass "+"Steve".bold()+"."}],
+    ["nFiller", "AcceptabilityJudgment", {s: "<span class=dp>He</span> claims that <span class=dp>Melvin</span> was honest."}],
+    ["nFiller", "AcceptabilityJudgment", {s: "<span class=dp>He</span> was afraid that <span class=dp>Brad</span> wouldn't get picked for a team."}],
+    ["nFiller", "AcceptabilityJudgment", {s: "<span class=dp>He</span> said that <span class=dp>Jake</span> didn't know when to come in out of the rain."}],
+    ["nFiller", "AcceptabilityJudgment", {s: "Donna hopes <span class=dp>he</span> won't embarrass <span class=dp>Steve</span>."}],
 
 /*
 
